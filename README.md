@@ -9,7 +9,11 @@ That's it.
 
 ## Setup
 
-Pull docker concainter with simulator in it.
+Clone this repository.
+
+`git clone https://github.com/Kowalskiexe/husky-sim.git`
+
+Pull docker containter with Gazebo Ignition simulator in it.
 
 `docker pull kowalskiexe/husky-sim`
 
